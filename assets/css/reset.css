@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'spartan' ;
+    src: url("../../public/font/LeagueSpartan-VariableFont_wght.ttf");
+}
+.body{
+    font-family: "spartan";
+    background-image: url("../../public/img/bg-pattern-top-desktop.svg");
+}
+.ml-60{
+    margin-left: 60px;
+}
+.ml-80{
+    margin-left: 100px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mt-40{
+    margin-top: 40px;
+}
